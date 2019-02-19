@@ -1,0 +1,1 @@
+Flixter pulls the latest movies out in theaters and generates them as a list. Each item in the list has an image, title, and description. This app was the second assignment in Code Paths IOS bootcamp.

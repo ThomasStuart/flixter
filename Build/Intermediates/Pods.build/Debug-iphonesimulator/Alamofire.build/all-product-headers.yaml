@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireImage-Swift.h",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireImage-umbrella.h",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Intermediates/Pods.build/Debug-iphonesimulator/AlamofireImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/Pods_flixter.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-flixter-umbrella.h",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/Target Support Files/Pods-flixter/Pods-flixter-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_flixter-Swift.h",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/Pods_flixter.framework/Headers/Pods_flixter-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Files/Debug-iphonesimulator/Pods_flixter.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-flixter.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

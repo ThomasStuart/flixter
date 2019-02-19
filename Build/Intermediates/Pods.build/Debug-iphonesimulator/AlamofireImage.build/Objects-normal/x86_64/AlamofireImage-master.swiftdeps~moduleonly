@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "05e82f8bc1d208222194c0e3fbd9a8eb"
+build_time: [1550538889, 184597000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/AFIError.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/Image.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/ImageCache.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/ImageDownloader.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/ImageFilter.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1550273685, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1550273685, 0]
