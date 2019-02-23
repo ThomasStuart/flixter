@@ -1,9 +1,10 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "98a73f6ee4441e210d067f9767a798b5"
-build_time: [1550539145, 404107000]
+build_time: [1550961298, 169134000]
 inputs:
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MovieGridViewController.swift": [1550961291, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MoviesDetailsViewController.swift": [1550955332, 0]
   "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/AppDelegate.swift": [1550027567, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/ViewSingleMovie.swift": [1550539144, 0]
   "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MovieCell.swift": [1550534842, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MoviesViewController.swift": [1550539144, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/movieInfo.swift": [1550539144, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MovieGridCell.swift": [1550959417, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MoviesViewController.swift": [1550632053, 0]

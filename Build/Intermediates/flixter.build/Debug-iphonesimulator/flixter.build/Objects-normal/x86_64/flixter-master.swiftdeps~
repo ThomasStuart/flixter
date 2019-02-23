@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "98a73f6ee4441e210d067f9767a798b5"
-build_time: [1550538890, 744842000]
-inputs:
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/AppDelegate.swift": [1550027567, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/ViewSingleMovie.swift": [1550538117, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MovieCell.swift": [1550534842, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/MoviesViewController.swift": [1550538885, 0]
-  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/flixter/flixter/movieInfo.swift": [1550535203, 0]

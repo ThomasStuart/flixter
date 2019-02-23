@@ -10,10 +10,6 @@ import Foundation
 import UIKit
 import AlamofireImage
 
-var selectedTitle = "not set"
-var selectedSynopsis = "not set"
-var selectedImage = "not set"
-
 
 class MoviesViewController: UIViewController, UITableViewDataSource ,UITableViewDelegate {
 
@@ -21,7 +17,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource ,UITableView
     @IBOutlet weak var tableView: UITableView!
     
     var movies = [[String:Any]]()
-    var cells  = [movieInfo]()
+
 
     override func viewDidLoad() {
         
@@ -76,34 +72,27 @@ class MoviesViewController: UIViewController, UITableViewDataSource ,UITableView
         
         cell.posterView.af_setImage(withURL: posterUrl!)
         
-        var c = movieInfo()
-        
-        c.imageAsString = baseUrl + posterPath
-        c.Title         = titleSet
-        c.Description   = synopsisSet
-        
-        cells.append(c)
-        
-        
+
         return cell
         
     }
     
 
     
-     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-       
-        var c:movieInfo
-        var index = 0
-        index = indexPath.row
+
+    override func prepare(for segue: UIStoryboardSegue, sender: Any? ){
+        // Find the selected movie
+        let cell = sender as! UITableViewCell
+        let indexPath = tableView.indexPath(for:cell)!
         
-        c = cells[index]
+        let movie = movies[indexPath.row]
         
-        selectedImage    = c.imageAsString
-        selectedTitle    = c.Title
-        selectedSynopsis = c.Description
- 
-        self.performSegue(withIdentifier: "toSingleView", sender: self)
+        
+        let detailsViewController = segue.destination as! MoviesDetailsViewController
+        detailsViewController.movie = movie
+        
+        tableView.deselectRow(at: indexPath, animated: true)
+        
     }
     
     
