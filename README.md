@@ -2,7 +2,7 @@ Flixter pulls the latest movies out in theaters and generates them as a list. Ea
 
 Additional features:
 
--[click on a movie item and it will segue into a different view controller]
+-[click on a movie item and it will segue into a different view controller]                
 -[you can go back to the original list by clicking the back button in the top left]
 
 gif link: http://g.recordit.co/RI1YB8jYM7.gif
